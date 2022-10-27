@@ -1,0 +1,2 @@
+# Egor-algo
+algo code
